@@ -1,4 +1,4 @@
-![Hello World](20200311/image.png)
+![Hello World](20200311/image.jpg)
 
 #测试2
 >
