@@ -1,0 +1,3 @@
+##User: _CPResearch_	Time: 20200318
+> 
+ If you've ever wondered about the secret life of Nigerian spammers, this is definitely the article for you. Read all about one cybercriminal's decade-long quest of bought RATs, stolen credit cards, back-stabbed colleagues and looming paranoia. Read more @ https://research.checkpoint.com/2020/the-inside-scoop-on-a-six-figure-nigerian-fraud-campaign/ …
