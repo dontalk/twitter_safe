@@ -1,0 +1,3 @@
+##User: RedDrip7	Time: 20200324
+> 
+ Our tool is different from @ollypwn ( https://github.com/ollypwn/SMBGhost …) which just checks protocol version to identify the vulnerability and hence becomes inaccurate after the patch. Our approach is different and is able to detect vulnerable systems accurately. https://twitter.com/RedDrip7/status/1241768531470872577 …
