@@ -1,0 +1,9 @@
+##User: _CPResearch_	Time: 20200707
+> 
+``` [CPR-Zero] CVE-2020-9497 & CVE-2020-9498 (Apache Guacamole): Remote Code Execution and Privilege Escalation in Apache Guacamole-server
+ https://cpr-zero.checkpoint.com/vulns/cprid-2141/ …
+ https://cpr-zero.checkpoint.com/vulns/cprid-2142/ …
+ https://cpr-zero.checkpoint.com/vulns/cprid-2143/ …
+ https://cpr-zero.checkpoint.com/vulns/cprid-2144/ …```
+  
+  
